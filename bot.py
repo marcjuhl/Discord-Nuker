@@ -13,7 +13,7 @@ token = "" # Token Here
 
 #  If it says Shared ID None is requesting privileged intents, go to discord developer portal and go to your bot and click on the bot tab and then scroll down to where it says privileged gateway intents and enable both, then it should work
 
-SPAM_CHANNEL =  ["Oni On Top","Kid","Adopted","Nuke Go Boom","Onions Make PPl Cri"]  
+SPAM_CHANNEL =  ["The Rock","Script Kiddie","Adopted","Boom","Hello World!"]  
 SPAM_MESSAGE = ["@everyone Oni On Top"]
 
 intents = discord.Intents(messages=True, guilds=True, members=True)
